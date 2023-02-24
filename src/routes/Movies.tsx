@@ -11,6 +11,7 @@ function Movies() {
             {
                 allMovies{
                     title
+                    id
                 }
             }
             `
